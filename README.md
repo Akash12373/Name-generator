@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akash12373/Name-generator/blob/main/name_generator_transformer.ipynb)
+
 # Kerala Name Generator 
 
 A character-level language model built from scratch in PyTorch to generate authentic Kerala (Malayali) names. Inspired by Andrej Karpathy's Makemore series.
