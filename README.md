@@ -4,7 +4,7 @@ A character-level language model built from scratch in PyTorch to generate authe
 
 ## 📂 The Models
 This repository explores two different architectures for name generation:
-* [name_generator_bigram.ipynb](./name_generator_bigram.ipynb): A basic bigram model that uses just 1 previous character to predict the next.
+* [name_generator_bigram.ipynb](./name_generator_bigram.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akash12373/Name-generator/blob/main/name_generator_bigram.ipynb): A basic bigram model that uses just 1 previous character to predict the next.
 * [name_generator_transformer.ipynb](./name_generator_transformer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akash12373/Name-generator/blob/main/name_generator_transformer.ipynb): A more advanced model that uses a context of multiple previous characters to predict the next.
 
 ## 🧠 Rebuilding PyTorch Under the Hood
