@@ -1,6 +1,6 @@
 # Kerala Name Generator (Character-Level Language Model)
 
-This project is a character-level language model built from scratch in Python and PyTorch, specifically trained to generate **names of people from Kerala (Malayali names)**. Inspired by Andrej Karpathy's Makemore tutorials, this notebook implements a Multi-Layer Perceptron (MLP) to generate authentic-sounding Kerala names character by character. 
+This project is a character-level language model built from scratch in Python, specifically trained to generate **names of people from Kerala (Malayali names)**. Inspired by Andrej Karpathy's Makemore tutorials, this notebook implements a Multi-Layer Perceptron (MLP) to generate authentic-sounding Kerala names character by character. 
 
 Instead of relying entirely on PyTorch's built-in neural network modules, this project features a custom implementation of core neural network layers to deeply understand the mechanics of deep learning under the hood.
 
